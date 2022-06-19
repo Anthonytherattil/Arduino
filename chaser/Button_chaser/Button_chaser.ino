@@ -29,7 +29,7 @@ const int led2 =  12;
 const int led3 =  11;
 const int led4 =  10;
 // variables will change:
-int buttonState = 0;         // variable for reading the pushbutton status
+int buttonState=0         // variable for reading the pushbutton status
 
 void setup() {
   // initialize the LED pin as an output:
